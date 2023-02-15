@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTP_BasicUsing", "SMTP_BasicUsing\SMTP_BasicUsing.csproj", "{6B27FC7B-9454-4D7E-B639-1865DE4E54F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B27FC7B-9454-4D7E-B639-1865DE4E54F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B27FC7B-9454-4D7E-B639-1865DE4E54F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B27FC7B-9454-4D7E-B639-1865DE4E54F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B27FC7B-9454-4D7E-B639-1865DE4E54F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132456BA-4E4C-407C-8A36-7BC55B5A6A51}
+	EndGlobalSection
+EndGlobal
